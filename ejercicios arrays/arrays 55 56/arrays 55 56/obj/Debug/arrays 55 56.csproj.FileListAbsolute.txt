@@ -1,0 +1,7 @@
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\bin\Debug\arrays 55 56.exe.config
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\bin\Debug\arrays 55 56.exe
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\bin\Debug\arrays 55 56.pdb
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\obj\Debug\arrays 55 56.csproj.AssemblyReference.cache
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\obj\Debug\arrays 55 56.csproj.CoreCompileInputs.cache
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\obj\Debug\arrays 55 56.exe
+C:\Users\Lalag\OneDrive\Documentos\GitHub\AO-23-24\ejercicios arrays\arrays 55 56\arrays 55 56\obj\Debug\arrays 55 56.pdb
